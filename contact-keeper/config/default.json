@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://zan2020:zan2020@contact-keeper-fkx3g.mongodb.net/<LCA>?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
